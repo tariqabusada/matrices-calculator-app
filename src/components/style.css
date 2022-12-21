@@ -1,0 +1,9 @@
+
+.logo {
+    margin: 1.3rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: fit-content;
+}
+.logo span {
+    color: #ffa115;
+}
